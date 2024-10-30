@@ -6,7 +6,7 @@ solucion <- function() {
   a <- NULL
   b <- NULL
   s <- a+b
-  a <- 8
+  a <- 23
   s <- s+a
   b <- 20
   s <- s+5
